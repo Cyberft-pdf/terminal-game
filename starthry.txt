@@ -1,0 +1,259 @@
+@echo off
+title Titanium
+chcp 1250
+:zacatek
+MODE 150,49
+
+echo .
+echo ..
+type uvodni.txt
+
+start timer.bat
+
+cls
+echo ----------------------------------------------
+set /p jmeno="Ahoj, Jak se jmenujes?:" 
+cls
+SET /A cislokodu=%RANDOM% %3
+
+echo    ----------------------------------------------------------------------------------------
+echo                        -           Vitej %jmeno% ve hre Titanium,               -
+echo                        -           tvuj ukol bude prozkoumavat!                 -
+echo    ----------------------------------------------------------------------------------------
+timeout /t 10
+cls
+cls
+echo    ----------------------------------------------------------------------------------------
+echo                        -                                                        -
+echo        %cislokodu%     -             Co chces delat dale?                      -
+echo                        -                                                        -
+echo    ----------------------------------------------------------------------------------------
+echo                        -                                                        -
+echo                        -                S = zacit hru                           -
+echo        %cislokodu%     -                P = pravidla                            -
+echo                        -                U = ukoncit(funguje po celou dobu hry)  -
+echo                        -                                                        -
+echo    ----------------------------------------------------------------------------------------
+
+choice /c spu 
+
+
+if %errorlevel% equ 1 goto start
+if %errorlevel% equ 2 goto pravidla
+if %errorlevel% equ 3 goto ukoncit
+
+:start
+mode 139,48
+
+
+rem -----------ZACATEK PRVNIHO DNE--------------------
+rem ------------prvni rozhodnuti/zacatek------------------
+cls
+type voz1.txt
+
+choice /c yn /n
+
+if %errorlevel% equ 1 goto ano
+if %errorlevel% equ 2 goto ne
+
+:ano
+rem ------------prvni rozhodnuti/konec------------------
+cls
+type voz2.txt 
+
+choice /c d /n
+
+if %errorlevel% equ 1 goto dale
+goto konec
+
+rem -------konec prvniho rozhodnuti------------------
+:dale
+cls
+type voz3.txt
+
+choice /c d /n
+
+if %errorlevel% equ 1 goto dale2
+
+:dale2
+rem -------zacatek kratka animace------------------
+cls
+type voz4.txt
+cls
+type voz5.txt
+cls
+type voz6.txt
+cls
+type voz7.txt
+cls
+type voz8.txt
+cls
+type voz9.txt
+cls
+type voz10.txt
+cls
+type voz11.txt
+cls
+type voz12.txt
+cls
+type voz13.txt
+cls
+type voz14.txt
+cls
+type voz15.txt
+cls
+type voz16.txt
+cls
+type voz17.txt
+cls
+type voz18.txt
+cls
+type voz19.txt
+cls
+type voz20.txt
+cls
+type voz21.txt
+cls
+type voz22.txt
+cls
+type voz23.txt
+cls
+type voz24.txt
+cls
+type voz25.txt
+
+rem -------konec kradka animace------------------
+choice /c d /n
+
+if %errorlevel% equ 1 goto dale3
+ 
+
+rem---------druhe rozhodnuti zacatek--------------
+
+:dale3
+cls
+type voz27.txt
+
+choice /c np /n
+
+
+if %errorlevel% equ 1 goto jit
+if %errorlevel% equ 2 goto pockat
+
+rem--------druhe rozhonuti konec-----------------
+
+:jit
+cls
+type voz28(jit).txt
+
+choice /c vi /n
+
+if %errorlevel% equ 1 goto vyslechnout
+if %errorlevel% equ 2 goto ignorovat1
+
+
+:vyslechnout
+cls
+type voz29.txt
+
+choice /c ip /n
+
+if %errorlevel% equ 1 goto ignorovat2
+if %errorlevel% equ 2 goto pomoct
+
+rem+++++++++++++++++++++++++++++++++++++++++++++++++++
+:ignorovat2
+cls
+type voz302.txt
+
+choice (jit,ig)c d /n
+
+if %errorlevel% equ 1 goto dale5
+
+
+:dale5
+cls
+type voz31.txt
+
+choice /c u /n
+
+if %errorlevel% equ 1 goto konec
+:konec
+exit
+
+
+
+:pomoct
+cls
+type voz32.txt
+choice /c a /n
+
+if %errorlevel% equ 1 goto zakl
+
+:zakl
+cls
+type voz33.txt
+choice /c u /n
+
+if %errorlevel% equ 1 goto konec
+:konec
+exit
+
+
+
+:ignorovat1
+cls
+type voz302.txt
+
+choice /c d /n
+
+if %errorlevel% equ 1 goto dale6
+
+:dale6
+cls
+type voz33.txt
+choice /c u /n
+
+if %errorlevel% equ 1 goto konec
+:konec
+exit
+
+
+
+:pockat
+cls
+type voz34.txt
+choice /c z /n
+
+if %errorlevel% equ 1 goto zakl
+:zakl
+cls
+type voz33.txt
+choice /c u /n
+
+if %errorlevel% equ 1 goto konec
+:konec
+msg Děkuji za hraní mojí krátké hry:)
+exit
+
+
+
+
+rem konec prvniho dne
+
+:pravidla
+start pravidlahry.bat
+goto konec
+
+
+:ukoncit
+msg Vaše hra nebude uložena!
+exit
+goto konec
+
+
+:konec
+
+
+
+pause

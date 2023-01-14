@@ -1,0 +1,47 @@
+   ______________________________________________________________________________________________________________________________________ 
+  |                                                                                                                                      |
+  |                                                                                                                                      |
+  |                                                                                                                                      |
+  |                                                                                                                                      |
+  |                                                                                                                                      |
+  |                                                                                                                                      |
+  |                                                                                                                                      |
+  |                                                                                                                                      |
+  |                                                                                                                                      |
+  |                                                                                                                                      |
+  |                                                                                                                                      |
+  |                                                                                                                                      |
+  |         .                                                                                                                            |
+  |                                                                                                                                      |
+  |                                                                                                                                      |
+  |                   *                                                                                                                  |
+  |                                                                    .                                                                 |
+  |                                                                                                                                      |
+  |                                   *                                                                                                  |
+  |                                                                                                                                      |
+  |                                                                                                                                      |
+  |                                            .                                                                                         |
+  |                                                                                                                                      |
+  |                                                                                                                                      |
+  |                                                                                                     .                                |
+  |            .                                                                                                                         |
+  |                                                                                                                                      | 
+  |                                                                                                                                      |
+  |                                                                                                                                      |
+  |                                                                                                                                      |
+  |                                                                                                                                      |
+  |                                                                                                                                      |
+  |                                                                                                                                      |
+  |                                                                                                                                      |
+  |                                                                                                                                      |
+  |                                                                                                                                      |
+  |                                                                                                                                      |
+  |000XXXK000000000KK0OOKXNNX00XXKKKKXXXXXXXKKK0OO00OkkkxxkkkxkkO0KXXXXXXXXXXXXXXXKK0OkxxkkkOkxdddolc::::c::::::ccccccodoccc:;;;;;;;;;;;;|
+  |KXXXK000000K000KK0O0KXNX00KXK00KKKKKKK00KK00OkxdddoooxOOxdxxkOKKKKK00KXXXXXKKXKKK0Okkxxkkkxxolllccllc::::;;::ccc::loolccc:;;;,,;;;;;;;|
+  |KXXKKK0KK00000KKKK0OOKXXXKO0KK000KKKKXXK0KXK0OkdlclloxOOkxdddxxO00OOO0KXXXXKKK0KKKK0OOkxxxkkdlllloddlc:::::::::cc:::cccc:cc:;,'',,,;;;|
+  |KKK0O0O00OO00O000KX0O0XNNK0KXXK00KKXNNXXXXKK00OkddxxkOOxxxdddodxOO00000KXXXXXKK0KKKK0OOkxkOOkollodxxolc::::;:::cclc:;;::::c::;;,'',,,,|                                                                                                                                      |
+  |______________________________________________________________________________________________________________________________________|
+  |  > Tvuj dnesni ukol je zmapovat nove uzemil. Mozna konecne najdes novy prvek.                                                        |
+  |  > Vrtulnicek ti dnes pomuze protoze je to hodne hornate uzemi.                                                                      |
+  |  >                                                                                                        *zmackni d pro pokracovani |
+  |______________________________________________________________________________________________________________________________________|

@@ -1,0 +1,46 @@
+   ______________________________________________________________________________________________________________________________________ 
+  |                                                                                                                                      |
+  |                                                                                                                                      |
+  |                                                                                                                                      |
+  |                                                                                                                                      |
+  |                                                                                                                                      |
+  |                                                                                                                                      |
+  |                                                                                                                                      |
+  |                                                                                                                                      |
+  |                                                                                                                                      |
+  |                                                                                                                                      |
+  |                                                                                                                                      |
+  |                                                                                                                                      |
+  |         .                                                                                                                            |
+  |                                                                                                                                      |
+  |                                                                                                                                      |
+  |                   *                                       KKWcC                                                                      |
+  |                                                          KWKWKKKC       .                                                            |
+  |                                                          kK KKKKKCK                                                                  |
+  |                                              .........'k'''''',''',,''''''''...........                                              |
+  |                                       KKKKKK0looddxxxxddoolooolllllllllcllccllllccccc::''KUK             cccc                        |
+  |                             ../;:coxk0KKKKKKK0OOO0000Okxxdddddddddddddddoooooollloollccccllllllcc:;,,Cccccc'cccc                     |
+  |                    KUK.',;cldkOOOOttttXNNNNNNXK000KKKK00000Okkxxxxx::::xddddddddooooooooollllllllloollllcc:;,'.c.cc                  |
+  |                 ..;coxO000OOkkkOO0tKXtXXNW()WWNXXXXXXKK0KXNXKK0Okxxxd:::::xxxxxxxddddddoooooolllllllloooooollclloolc:;'..            |
+  |     KKKKKK0OOO0000Ok,cok0KXXXXXXXKt0O000OO0KXKKKXWWWWMMWWWWNWNXKKKXXXK:0Okkkxxxxxxxxxxxxddoooooooo/)lolllllllooooooooolll            |
+  |    KKkKkkkkkkkxO0KKXXXXNNNNNNXKKK0OkO0XXXKKKXNWWWMMMMMMMWWWNXKKXXKK0OOkOOOkxxxxdddxxxdooooooooooo()ollllllllooooddddolloodxxdl:,..   |
+  |    .oocdk0KKKXXXNNNNNNNNNNNNXKKK00KXXXXXXXNNWWWWWMMMMMMMMWWWNXXKXXK0OOO00Okkxdddddddxxddddooddoolllllllllllllloodooooollooddddol:,.. |
+  |.;lxO00KKKKXNNNNNWWWWWWWNNNXXXK00KXXXXXXXKKKXNWWMMMMMMMMMMWWWNXKKXXK0O0KK0Okkxdddddddddddoooddooooolllllllccccclllloooollllooodddol:'.|
+  |loodxkO0KKKXXXNNNNWWWWWWWWWNNXXK00KKK0OOOOOO0KXNWMMMMWWMMMWWWWWWNXXXXK00KXXK0Okxxdddddoooooooooolollllllllllccccccccclllllllllllooddop|
+  |loodxkO0KKKX.XNNNNWWWWWWWWWNNXXK00KKK0OOOOOO0KXNWMMMMWWMMMWWWWWWNXXXXK00KXXK0Okxxdddddoooooooooolollllllllllccccccccclllllllllllooddoo|
+  |oooodxOKKXXXXXNNWWWWWWWMMWWWWNXNNNNNXK0OOOkkO0KXNWWWWWWWWWWWWWWWNNXXXKK00XXX00kxkkxodddooooodddddoloololllllcccccc:cccccllloollccclloo|
+  |ddddxO0KXXXKKXXNWWMWWWWW.WWWWNNNNNNNNXK0kOOkO00KKXXXXNNNWWWWWWWWWNXKKKKK00KKK00kxkOOkxdoolllooooocclooolooollccccc::::::cclooooolccccc|
+  |olodk0KKKKKKKXXXNWMWWNNWWWWNNNNNNNNNNXK00KKKKXK0O0KKKXNNWWWWWWWWWWNXK00000000000kxkOOkxdollllllllllllllccccccccccccc::::::coddooddolc:|
+  |MMMMMMMMMMMMMMMMMMMMWNXNNNNXXNNWWNNNXXKKXXKXXK0000O0KKKXNNNNWWWWWWNNXXKKK0OOkO00OkkOkkxdolllllccccclllcllcccccc:::cc:cc:ccccccccloolcc|
+  |xO0KXXX0KKKXXXXXNNWWNNXXXXXXXXXNNNXXXXK0000KKK00000O0OO0XNNNNNWWWWNNNNXXKKK0OkkO0Okxxkkxdoollcccc::::::cclccloollcc:::::c::::;;::ccccc|
+  |O0KXXKKKKKKKKKKXXXNWWNXXXKXXXXXXXXNNNXK0OkkO0K00OOOOOOOO0XXNNNNNWWNNNNNXXXKKKOkkkkO0kkkOOkxxdllcc:::::::ccccllloolcc:::;;::::;;;;;;:::|
+  |0KXXX0000000KK00OOKXNNXKKKKXXXXXNXXXXXK00Okk000OkkOOkkkkOO0KXXXNNNNWNNNNNXXXK00OkxkOOOkkkkkkkxdolc:::::::ccc::cloolc:c::;;;;::;;,,;;;;|
+  |000XXXK000000000KK0OOKXNNX00XXKKKKXXXXXXXKKK0OO00OkkkxxkkkxkkO0KXXXXX.XXXXXXXXXKK0OkxxkkkOkxdddolc::::c::::::ccccccodoccc:;;;;;;;;;;;;|
+  |KXXXK0000.0K000KK0O0KXNX00KXK00KKKKKKK00KK00OkxdddoooxOOxdxxkOKKKKK00KXXXXXKKXKKK0Okkxxkkkxxolllccllc::::;;::ccc::loolccc:;;;,,;;;;;;;|
+  |KXXKKK0KK00000KKKK0OOKXXXKO0KK000KKKKXXK0KXK0OkdlclloxOOkxdddxxO00OOO0KXXXXKKK0KKKK0OOkxxxkkdlllloddlc:::::::::cc:::cccc:cc:;,'',,,;;;|
+  |KKK0O0O00OO00O000KX0O0XNNK0KXXK00KKXNNXXXXKK00OkddxxkOOxxxdddodxOO00000KXXXXXKK0KKKK0OOkxkOOkollodxxolc::::;:::cclc:;;::::c::;;,'',,,,|
+  |______________________________________________________________________________________________________________________________________|
+  |  > Dostat se k prvku bude trvat 2 hodiny.                                                                                            |
+  |  > Pak zajedu zpatky na zakladnu a prvek ulozim.                                                                                     |
+  |  >                                                                                                                                   |
+  |______________________________________________________________________________________________________________________________________|
